@@ -1,5 +1,5 @@
 #Excercice-Cadavre-Exquis-Bridge
 ##Histoire Initiatique d'un jeune Dev à GIT
 
-*Il etait une fois , un jeune DEV
-Incarné par un puissant désir d apprendre les language codant ce monde,ses maitres l'initièrent à GIT, un programme ancestral transmit de codeur en codeur ...*
+*Il était une fois , un jeune DEV
+Incarné par un puissant désir d apprendre les langages codant ce monde. Aussi ses maîtres l'initièrent à GIT, un programme de versionnage ancestral transmit de codeur en codeur ...*
